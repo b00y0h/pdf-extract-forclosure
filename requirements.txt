@@ -1,1 +1,12 @@
 streamlit
+PyPDF2
+pytesseract
+opencv-python-headless
+requests
+beautifulsoup4
+openai
+folium
+streamlit-folium
+undetected-chromedriver==3.5.3
+selenium==4.16.0
+
